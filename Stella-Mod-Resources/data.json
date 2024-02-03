@@ -1,0 +1,19 @@
+{
+  "version": "1.4.0",
+  "date": "19.01.2024",
+  "contributors": [
+    "Sefinek <contact@sefinek.net> (https://sefinek.net)"
+  ],
+  "repository": {
+    "repo": "https://github.com/sefinek24/Stella-Mod-Resources",
+    "issues": "https://github.com/sefinek24/Stella-Mod-Resources/issues",
+    "pulls": "https://github.com/sefinek24/Stella-Mod-Resources/pulls"
+  },
+  "stella": {
+    "website": "https://genshin.sefinek.net",
+    "help": {
+      "subpage": "https://sefinek.net/genshin-impact-reshade/support",
+      "discord": "https://discord.gg/8GbXtnYQKd"
+    }
+  }
+}
